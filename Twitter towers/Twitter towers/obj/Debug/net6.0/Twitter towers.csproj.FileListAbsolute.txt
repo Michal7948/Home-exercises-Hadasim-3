@@ -1,0 +1,15 @@
+D:\מטלת בית\Twitter towers\Twitter towers\bin\Debug\net6.0\Twitter towers.exe
+D:\מטלת בית\Twitter towers\Twitter towers\bin\Debug\net6.0\Twitter towers.deps.json
+D:\מטלת בית\Twitter towers\Twitter towers\bin\Debug\net6.0\Twitter towers.runtimeconfig.json
+D:\מטלת בית\Twitter towers\Twitter towers\bin\Debug\net6.0\Twitter towers.dll
+D:\מטלת בית\Twitter towers\Twitter towers\bin\Debug\net6.0\ref\Twitter towers.dll
+D:\מטלת בית\Twitter towers\Twitter towers\bin\Debug\net6.0\Twitter towers.pdb
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.csproj.AssemblyReference.cache
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.GeneratedMSBuildEditorConfig.editorconfig
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.AssemblyInfoInputs.cache
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.AssemblyInfo.cs
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.csproj.CoreCompileInputs.cache
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.dll
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\ref\Twitter towers.dll
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.pdb
+D:\מטלת בית\Twitter towers\Twitter towers\obj\Debug\net6.0\Twitter towers.genruntimeconfig.cache

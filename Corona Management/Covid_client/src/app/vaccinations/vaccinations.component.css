@@ -1,0 +1,23 @@
+.create_btn{
+  position: fixed;
+  top: 2;
+  width: 30%;
+  background: white;
+  color: #001343;
+  margin: 5%;
+  padding: 5%;
+  font-size: 220%;
+  border: 3px #001343 solid;
+}
+
+
+
+.form{
+  margin: 5%;
+  background-color: white;
+}
+
+
+.div_vaccine{
+  width: 40%;
+}
